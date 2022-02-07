@@ -1,0 +1,28 @@
+table, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 30%;
+}
+.fila1 {
+    background-color:tomato
+}
+.fila3 {
+    background-color:rgb(107, 192, 231);
+}
+#fondoimagen {
+    background-image: url(https://www.kindpng.com/picc/m/109-1091265_transparent-minion-png-imagen-de-minions-png-png.png);
+    background-position: center;
+    background-size: 95px;
+}
+.fila6 {
+    background-color: rgb(94, 202, 94);
+}
+.fila7 {
+    background-color:  rgb(138, 211, 29);
+}
+.fila8 {
+    background-color: rgb(236, 214, 17);
+}
+#anchura{
+    width: 90%;
+}
